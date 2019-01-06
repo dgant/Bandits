@@ -1,4 +1,18 @@
 # Changelog
+### Bandits 1.04 (1/6/2018):
+* Raider: Gold 250 -> 350
+* Vandal: Food 4 -> 3
+* Cutthroats Fade time 1.25 -> 2.0
+* Cutthroat: Damage upgrade bonus 4 -> 3
+* Mastermind: Fixed a tooltip
+* Desperado: HP regen/sec 0.5 -> 2.0
+* Barbarian: HP regen/sec 0.5 -> 2.0
+* Guerrilla: HP regen/sec 0.5 -> 1.5
+* Pirate: HP regen/sec 0.5 -> 1.5
+* Outlaw: HP regen/sec 0.5 -> 1.5
+* Mastermind: HP regen/sec 0.5 -> 1.5
+
+
 ### Bandits 1.03 (12/31/2018):
 * Watchpost: Cooldown 1.5 -> 2.25
 * Watchpost: HP 800 -> 1200
