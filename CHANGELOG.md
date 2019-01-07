@@ -11,7 +11,8 @@
 * Pirate: HP regen/sec 0.5 -> 1.5
 * Outlaw: HP regen/sec 0.5 -> 1.5
 * Mastermind: HP regen/sec 0.5 -> 1.5
-
+* Barbarian: Fixed Fireblast icon position
+* Mastermind: Fixed Focus icon position
 
 ### Bandits 1.03 (12/31/2018):
 * Watchpost: Cooldown 1.5 -> 2.25
